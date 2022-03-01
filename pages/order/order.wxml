@@ -1,0 +1,6 @@
+<view wx:for="{{10}}" class="item">
+  <view>预约时间：2021年10月10日</view>
+  <view>地址: 橡树星座C座</view>
+  <view>电话：18182587363</view>
+  <view>备注：纸箱很多</view>
+</view>

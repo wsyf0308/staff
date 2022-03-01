@@ -1,0 +1,42 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "登录",
+          "pathName": "pages/login/login",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "订单详情",
+          "pathName": "pages/orderDeatail/orderDeatail",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "订单录入",
+          "pathName": "pages/order_enter/order_enter",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "订单列表",
+          "pathName": "pages/order/order",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+<view>
+  <view class="tr">
+    <view class="td">名称</view>
+    <view class="td">数量</view>
+    <view class="td">单价</view>
+    <view class='td'>总计</view>
+    <view class='td'>操作</view>
+  </view>
+  <view class="tr" wx:for="{{5}}">
+    <view class="td">废纸</view>
+    <view class="td">10/kg</view>
+    <view class="td">1/元</view>
+    <view class='td'>10/元</view>
+    <view class='td'>修改/删除</view>
+  </view>
+</view>
+
+<view>新增分类</view>
+
+<view>保存</view>

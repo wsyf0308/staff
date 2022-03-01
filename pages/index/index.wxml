@@ -1,0 +1,18 @@
+<view class="cu-bar bg-white solid-bottom">
+  <view class='action'>
+    <text class='cuIcon-titles text-orange '></text> 预约工单
+  </view>
+</view>
+<view class="cu-card article no-card">
+  <view class="cu-item shadow solid-bottom" wx:for="{{3}}">
+    <view class="title">
+      <view class="text-cut">4月29日 15:00</view>
+    </view>
+    <view class="content">
+      <view class="desc">
+        <view class="text-df">地址：唐延路3889号</view>
+        <view class="text-df">电话：唐延路3889号</view>
+      </view>
+    </view>
+  </view>
+</view>

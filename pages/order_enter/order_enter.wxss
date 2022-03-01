@@ -1,0 +1,9 @@
+/* pages/order_enter/order_enter.wxss */
+.tr{
+  display: flex;
+}
+.td{
+  flex: 1;
+  line-height: 40rpx;
+  text-align: center;
+}
